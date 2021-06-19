@@ -3,7 +3,7 @@ function MyChat(){
   return (
     <div>
     <ChatBot
-    // speechSynthesis={{ enable: true, lang: 'en' }}
+    speechSynthesis={{ enable: true, lang: 'ta' }}
   steps={[
     {
       id: '1',
