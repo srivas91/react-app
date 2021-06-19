@@ -28,8 +28,13 @@ function MyChat(){
     {
       id: '5',
       user:true,
-      end:true,
+      trigger:'6'
     },
+    {
+      id: '6',
+      message:'Bye!!! Thanks for contacting us',
+      end:true,
+    }
   ]}
 />
 </div>
